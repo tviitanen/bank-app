@@ -1,0 +1,20 @@
+users.txt 
+Basics of Database Systems
+15.2.2022
+00456573
+
+Users for testing purposes in bank_program.py
+
+****BANKERS*****
+BankerID, Name, Pin85487458, John Morgan, 7843
+85487459, Charles Rothschild, 3784
+85487460, Amadeo Giannini, 8434
+85487461, Henry Wells, 8398
+85487462, William Fargo, 6723
+
+****CUSTOMERS*****
+45985947, Arnold Schwarzenegger, 6374
+45985948, James Bond, 3784
+45985949, John Rambo, 2983
+45985950, Jason Bourne, 8935
+45985951, Bruce Wayne, 9023);
